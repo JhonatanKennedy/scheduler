@@ -1,4 +1,4 @@
-package com.geramotos.scheduler
+package com.geramotos.application
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
